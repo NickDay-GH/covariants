@@ -11,3 +11,4 @@ It is worth interpreting with caution:
 - Frequencies that are very 'jagged' - this often indicates low sequencing numbers and so may not be truly representative of the country
 - In many countries, sampling may not be equal across the country: samples may only cover one area or certain areas. It's important not to assume frequencies shown are necessarily representative of the country.
 
+Given that there are very variable sequencing numbers across different countries, would it be worth a label on each to indicate the number sequenced - either the total or some indication of recent rate? 
